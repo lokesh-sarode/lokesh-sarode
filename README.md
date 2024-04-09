@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" width="400" alt="Coding gif" src="https://github.com/LuckyVirus1432/LuckyVirus1432/blob/8337613bca78d5f667e2dfd5532f7e79a15e6fd0/coding.gif"/>
+<img align="right" width="250" alt="Coding gif" src="https://github.com/LuckyVirus1432/LuckyVirus1432/blob/8337613bca78d5f667e2dfd5532f7e79a15e6fd0/coding.gif"/>
 
 <p align="center">
   <a href="https://github.com/LuckyVirus1432">
