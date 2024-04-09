@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/LuckyVirus1432">
-    <img src="https://github.com/LuckyVirus1432/logos/blob/3f192cdb694a91f13ba7f6039677d6caca0ec61a/githubnamewhite.png" alt="Lokesh Sarode" /></a>
+    <img src="https://github.com/LuckyVirus1432/logos/blob/d82dda6e8961066467d0b85b0a6bee380b5d5c22/githubname.png" alt="Lokesh Sarode" /></a>
 </p>
 
 <p align="center">
