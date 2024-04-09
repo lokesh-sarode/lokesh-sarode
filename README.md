@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ BE Information Technology<br>📚 I'm currently learning Web Application Penetration Testing<br>🎯 Goals: <br>🎲 Fun fact: ...</p>
 
 ###
 
