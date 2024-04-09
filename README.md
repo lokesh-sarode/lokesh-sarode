@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ BE Information Technology<br>📚 I'm currently learning Web Application Penetration Testing<br>🎯 Goals: To become CEH Professional</p>
+<p align="left">✨ BE Information Technology<br>📚 I'm currently learning Web Application Penetration Testing<br>🎯 Goals: To become a CEH Professional</p>
 
 ###
 
