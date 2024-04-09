@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://www.linkedin.com/in/lokesh-sarode/" target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/LuckyVirus1432/logos/blob/281db4d46f0e4ad7f28c760236d357c792daa7e8/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DarkVenomLS" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/LuckyVirus1432/logos/blob/281db4d46f0e4ad7f28c760236d357c792daa7e8/twitter.png"/></a>
+  <a href="https://twitter.com/DarkVenomLS" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/LuckyVirus1432/logos/blob/281db4d46f0e4ad7f28c760236d357c792daa7e8/twitter.jpg"/></a>
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src=""/></a> -->
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
