@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" width="350" alt="Coding gif" src="https://github.com/LuckyVirus1432/LuckyVirus1432/blob/8337613bca78d5f667e2dfd5532f7e79a15e6fd0/coding.gif"/>
 
-<p align="center">
+<img align="right" width="400" alt="Coding gif" src="https://github.com/LuckyVirus1432/LuckyVirus1432/blob/8337613bca78d5f667e2dfd5532f7e79a15e6fd0/coding.gif"/>
+<p align="left">
   <a href="https://github.com/LuckyVirus1432">
     <img src="https://github.com/LuckyVirus1432/LuckyVirus1432/blob/be943e21f2d23c7d0bbd441c47410824cd8a7f7f/githubnamegrad.png" alt="Lokesh Sarode" /></a>
 </p>
-<p align="center">
+
+<p align="left">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
  <a href="https://github.com/LuckyVirus1432">
   <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20Expert%20and%20Penetration%20Tester;Experienced%20Python%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Social icons section -->
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/lokesh-sarode/" target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/LuckyVirus1432/LuckyVirus1432/blob/be943e21f2d23c7d0bbd441c47410824cd8a7f7f/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DarkVenomLS" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/LuckyVirus1432/LuckyVirus1432/blob/be943e21f2d23c7d0bbd441c47410824cd8a7f7f/twitter.jpg"/></a>
