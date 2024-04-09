@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 
 ###
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luckyvirus1432&label=Profile%20views&color=0e75b6&style=flat" alt="luckyvirus1432" /> </p>
 <h2 align="left">[*] About me</h2>
 
 ###
