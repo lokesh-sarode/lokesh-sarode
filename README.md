@@ -13,13 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<img align="right" width="400" alt="Coding gif" src="https://github.com/LuckyVirus1432/LuckyVirus1432/blob/8337613bca78d5f667e2dfd5532f7e79a15e6fd0/coding.gif"/>
 
 <p align="center">
   <a href="https://github.com/LuckyVirus1432">
-    <img src="https://github.com/LuckyVirus1432/logos/blob/d82dda6e8961066467d0b85b0a6bee380b5d5c22/githubnamegrad.png" alt="Lokesh Sarode" /></a>
+    <img src="https://github.com/LuckyVirus1432/LuckyVirus1432/blob/be943e21f2d23c7d0bbd441c47410824cd8a7f7f/githubnamegrad.png" alt="Lokesh Sarode" /></a>
 </p>
-
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
  <a href="https://github.com/LuckyVirus1432">
@@ -29,9 +28,9 @@ Here are some ideas to get you started:
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/lokesh-sarode/" target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/LuckyVirus1432/logos/blob/281db4d46f0e4ad7f28c760236d357c792daa7e8/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/lokesh-sarode/" target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/LuckyVirus1432/LuckyVirus1432/blob/be943e21f2d23c7d0bbd441c47410824cd8a7f7f/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/DarkVenomLS" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/LuckyVirus1432/logos/blob/c4d2f462c3867f131949e9fa6d267db4ee807844/twitter.jpg"/></a>
+  <a href="https://twitter.com/DarkVenomLS" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/LuckyVirus1432/LuckyVirus1432/blob/be943e21f2d23c7d0bbd441c47410824cd8a7f7f/twitter.jpg"/></a>
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src=""/></a> -->
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
