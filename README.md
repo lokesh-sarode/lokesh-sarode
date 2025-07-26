@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/lokesh-sarode/" target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/LuckyVirus1432/LuckyVirus1432/blob/be943e21f2d23c7d0bbd441c47410824cd8a7f7f/linkedin.png"/></a>
+  <a href="https://www.linkedin.com/in/lokesh-sarode/" target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/lokesh-sarode/lokesh-sarode/blob/be943e21f2d23c7d0bbd441c47410824cd8a7f7f/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/DarkVenomLS" target="_blank"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/LuckyVirus1432/LuckyVirus1432/blob/be943e21f2d23c7d0bbd441c47410824cd8a7f7f/twitter.jpg"/></a>
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -117,8 +117,8 @@ Here are some ideas to get you started:
 ###
 
 <div>
-  <img style=";" src="https://github-readme-stats.vercel.app/api?username=DarkVenomLS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img style="align:right;" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarkVenomLS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img style=";" src="https://github-readme-stats.vercel.app/api?username=lokesh-sarode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img style="align:right;" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokesh-sarode&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
