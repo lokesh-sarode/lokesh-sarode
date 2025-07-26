@@ -90,7 +90,7 @@ Here are some ideas to get you started:
   </a> 
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+     <img src="https://img.icons8.com/?size=100&id=AqYCfGyGXlO7&format=png&color=000000" alt="flask" width="40" height="40"/> 
    </a> 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
