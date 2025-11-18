@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/lokesh-sarode">
-    <img src="https://github.com/lokesh-sarode/lokesh-sarode/githubnamegrad.png" alt="Lokesh Sarode" /></a>
+    <img src="https://github.com/lokesh-sarode/lokesh-sarode/githubname.png" alt="Lokesh Sarode" /></a>
 </p>
 
 <p align="center">
