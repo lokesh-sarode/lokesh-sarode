@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p> -->
 <p align="center">
   <a href="https://github.com/lokesh-sarode">
-    <h1>Lokesh Sarode</h1>
+    <h1 align="center">Lokesh Sarode</h1>
 </p>
 
 
