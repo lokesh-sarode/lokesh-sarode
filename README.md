@@ -102,7 +102,26 @@ Here are some ideas to get you started:
   </a> 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  <!-- <svg fill="none" viewBox="0 0 600 100" width="600" height="100" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+          .container {
+            background-color: white;
+            color: black; /* Text color should contrast with white background */
+            padding: 10px;
+            border-radius: 5px;
+            font-family: sans-serif;
+          }
+        </style>
+        <div class="container">
+          <p>Your paragraph text goes here with a white background.</p>
+        </div>
+      </div>
+    </foreignObject>
+  </svg> -->
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> -->
+  <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/>
   </a> 
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
