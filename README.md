@@ -107,7 +107,7 @@ Here are some ideas to get you started:
   </a> 
   &#8287;&#8287;&#8287;&#8287;&#8287;
    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" alt="flask" width="40" height="40"/> 
+     <img src="https://nordicapis.com/wp-content/uploads/How-to-Create-an-API-Using-The-Flask-Framework-1024x576.png" alt="flask" width="80" height=""/> 
    </a> 
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
