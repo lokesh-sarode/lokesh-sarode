@@ -59,7 +59,14 @@ Here are some ideas to get you started:
 <img align="right" width="400" alt="Coding gif" src="https://github.com/lokesh-sarode/lokesh-sarode/blob/8337613bca78d5f667e2dfd5532f7e79a15e6fd0/coding.gif"/>
 <p align="">My name is Lokesh Sarode. And I am a Python Developer and Junior Cybersecurity Analyst. I have completed my graduation in Infortmation Technology</p>
 <p align="left">✨ Education     : BE Information Technology<br>
-                📚 Key Interests : Python Development, Django Framework, Web Security, Owasp Top10 <br>
+                📚 Key Interests : <br>
+                          <ul>
+                            <li>Python Development</li>
+                            <li>Django Framework</li>
+                            <li>Web Security</li>
+                            <li>Owasp Top10</li>
+                          </ul>
+                            <br>
                 <!-- 🎯 Goals         :  -->
 </p>
 
@@ -69,7 +76,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left"> 
+<p align="left" style="background-color:white;"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
