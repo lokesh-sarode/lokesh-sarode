@@ -138,7 +138,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=lokesh-sarode)](https://github.com/lokesh-sarode)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=lokesh-sarode&theme=transparent)](https://github.com/lokesh-sarode)
 
 
 
