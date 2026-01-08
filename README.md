@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 </p>
 
 ###
-<br><br><br>
+<br>
 <h2 align="left">[*] Languages and Tools:</h3>
 
 ###
