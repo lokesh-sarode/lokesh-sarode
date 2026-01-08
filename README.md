@@ -71,6 +71,8 @@ Here are some ideas to get you started:
 </p>
 
 ###
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=lokesh-sarode)](https://github.com/lokesh-sarode)
+
 <br><br><br>
 <h2 align="left">[*] Languages and Tools:</h3>
 
@@ -136,7 +138,7 @@ Here are some ideas to get you started:
 <div>
   <!-- <img style=";" src="https://github-readme-stats.vercel.app/api?username=lokesh-sarode&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
 </div>
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=lokesh-sarode)](https://github.com/lokesh-sarode)
+
 
 
 
