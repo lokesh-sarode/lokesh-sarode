@@ -19,9 +19,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/lokesh-sarode">
     <img src="https://github.com/lokesh-sarode/lokesh-sarode/githubnamegrad.png" alt="Lokesh Sarode" /></a>
 </p> -->
+
 <p align="center">
-  <a href="https://github.com/lokesh-sarode" style="text-decoration:none;">
+  <a href="https://github.com/lokesh-sarode">
     <h1 align="center">Lokesh Sarode</h1>
+  </a>
     <img src="./rainbow-superthin.gif" alt="rainbow horizontal row gif" width="100%"/>
 </p>
 
