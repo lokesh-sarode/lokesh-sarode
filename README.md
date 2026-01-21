@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+<img src="./rainbow-superthin.gif" alt="rainbow horizontal row gif" width="100%"/>
 <!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sarode-lokesh/" target="_blank"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/lokesh-sarode/lokesh-sarode/blob/be943e21f2d23c7d0bbd441c47410824cd8a7f7f/linkedin.png"/></a>
