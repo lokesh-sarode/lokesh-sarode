@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
  <a href="https://github.com/lokesh-sarode">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer,%20Cybersecurity%20Expert%20and%20Penetration%20Tester;Experienced%20Python%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer;Cybersecurity%20Expert%20and%20Penetration%20Tester;Experienced%20Python%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </a>
 </p>
 
