@@ -24,6 +24,7 @@ Here are some ideas to get you started:
     <h1 align="center">Lokesh Sarode</h1>
 </p>
 
+<img src="./rainbow-superthin.gif" alt="rainbow horizontal row gif" width="100%"/>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -47,7 +48,6 @@ Here are some ideas to get you started:
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
-<img src="./rainbow-superthin.gif" alt="rainbow horizontal row gif" width="100%"/>
 
 ###
 <br>
