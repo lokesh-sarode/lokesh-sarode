@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/lokesh-sarode/lokesh-sarode/githubnamegrad.png" alt="Lokesh Sarode" /></a>
 </p> -->
 <p align="center">
-  <a href="https://github.com/lokesh-sarode">
+  <a href="https://github.com/lokesh-sarode" style="text-decoration:none;">
     <h1 align="center">Lokesh Sarode</h1>
     <img src="./rainbow-superthin.gif" alt="rainbow horizontal row gif" width="100%"/>
 </p>
