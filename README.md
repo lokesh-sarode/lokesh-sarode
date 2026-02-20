@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <!-- Social icons section -->
 <p align="center">
   <a href="https://lokesh-sarode.netlify.app/" target="_blank">
-    <img width="32px" alt="Portfolio" title="Portfolio" src="https://github.com/lokesh-sarode/lokesh-sarode/blob/be943e21f2d23c7d0bbd441c47410824cd8a7f7f/portfolio.png"/>
+    <img width="32px" alt="Portfolio" title="Portfolio" src="https://github.com/lokesh-sarode/lokesh-sarode/blob/main/portfolio.png"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/sarode-lokesh/" target="_blank">
